@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EmailEmailPasswordPasswordKonfirmasi Pa_66d999</name>
+   <tag></tag>
+   <elementGuidId>085405a2-b4d2-4b2d-ad97-fe8595d8f9fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div/form/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiStack-root.mui-style-1orv6po</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>478535bc-b9ad-4090-b8ed-e6aace738118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiStack-root mui-style-1orv6po</value>
+      <webElementGuid>c89d3d9d-a730-4480-a4da-362cbadd5072</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EmailEmailPasswordPasswordKonfirmasi PasswordKonfirmasi PasswordSaya bersedia menerima update informasi dari MySkillDaftar</value>
+      <webElementGuid>3c3cbe9f-7138-4ad5-912d-b9f3c9b5712b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[@class=&quot;mui-style-v82cpl&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg mui-style-1qsxih2&quot;]/div[@class=&quot;mui-style-18yadix&quot;]/form[1]/div[@class=&quot;MuiStack-root mui-style-1orv6po&quot;]</value>
+      <webElementGuid>11c917e6-bf6e-4842-bcd5-931ae69edf0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/form/div</value>
+      <webElementGuid>b29cdbd7-6352-450f-82db-6fc47cc56f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>14b24b86-582d-4921-aa3a-486e2e0cf6d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'EmailEmailPasswordPasswordKonfirmasi PasswordKonfirmasi PasswordSaya bersedia menerima update informasi dari MySkillDaftar' or . = 'EmailEmailPasswordPasswordKonfirmasi PasswordKonfirmasi PasswordSaya bersedia menerima update informasi dari MySkillDaftar')]</value>
+      <webElementGuid>c133021e-5bbb-4ecb-b513-6f23b2372c79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

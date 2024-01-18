@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_HUMAN RESOURCE SERIES SHORT CLASSIntro _c6be0f</name>
+   <tag></tag>
+   <elementGuidId>08060a40-fadf-4f03-b286-af13f609a6c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='purchased-content']/div/div/div/div/div/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiCardContent-root.mui-style-1iyv2d7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e87f1b47-6704-4369-958f-b5a2393f7b82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiCardContent-root mui-style-1iyv2d7</value>
+      <webElementGuid>a207861c-4f91-4640-903a-3b04b643751b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HUMAN RESOURCE SERIES: SHORT CLASSIntro to People Analytics </value>
+      <webElementGuid>c122ab73-45fd-40c7-af0e-0a6e1721c3df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;purchased-content&quot;)/div[@class=&quot;MuiCardContent-root mui-style-18mhetb&quot;]/div[1]/div[@class=&quot;MuiBox-root mui-style-ohwg9z&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container mui-style-k8kfiq&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1 mui-style-1uytngk&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiCard-root mui-style-wem97i&quot;]/a[@class=&quot;MuiButtonBase-root MuiCardActionArea-root mui-style-1rdvs08&quot;]/div[@class=&quot;MuiCardContent-root mui-style-1iyv2d7&quot;]</value>
+      <webElementGuid>f9f58547-b47d-4df7-89c0-919895a962f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='purchased-content']/div/div/div/div/div/div/a/div</value>
+      <webElementGuid>3dee65d0-2fb5-4469-abb4-0d375076568c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>29cceca6-8ba5-410e-b9eb-97e7f98de9d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'HUMAN RESOURCE SERIES: SHORT CLASSIntro to People Analytics ' or . = 'HUMAN RESOURCE SERIES: SHORT CLASSIntro to People Analytics ')]</value>
+      <webElementGuid>6b8744b6-3cbc-496a-8018-cf0c637ede41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

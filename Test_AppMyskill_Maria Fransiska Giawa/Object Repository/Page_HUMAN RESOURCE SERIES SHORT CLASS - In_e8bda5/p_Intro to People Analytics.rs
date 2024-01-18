@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Intro to People Analytics</name>
+   <tag></tag>
+   <elementGuidId>0e3da89e-a3db-4de0-ade9-c5ac5a740b70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div[2]/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.mui-style-cqsj94</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f6c433aa-2dc8-4129-aaf2-556bb49971a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 mui-style-cqsj94</value>
+      <webElementGuid>16d7e315-7898-48be-b9c6-39807570edd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intro to People Analytics </value>
+      <webElementGuid>a71ba8c8-3b12-4e67-90c7-705b9d720706</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiStack-root mui-style-o44is&quot;]/div[@class=&quot;MuiBox-root mui-style-lirq99&quot;]/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[@class=&quot;MuiStack-root mui-style-1xm3igc&quot;]/div[@class=&quot;MuiBox-root mui-style-1mmnm7i&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg mui-style-rcalj5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 mui-style-1tz8m30&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8 mui-style-efwuvd&quot;]/div[@class=&quot;MuiStack-root mui-style-1jdlene&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiCard-root mui-style-1lxouf3&quot;]/div[@class=&quot;MuiCardContent-root mui-style-m21moj&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 mui-style-cqsj94&quot;]</value>
+      <webElementGuid>41d6a036-044a-45bc-93f4-7d1e358b886d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div[2]/div/div/div/p</value>
+      <webElementGuid>8053e40d-a818-46f9-94f8-4a5313441812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>1d26cc81-4ed1-46ae-9d05-751aea4c697b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Intro to People Analytics ' or . = 'Intro to People Analytics ')]</value>
+      <webElementGuid>32acca35-935c-46cb-9c17-6b938e4937a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

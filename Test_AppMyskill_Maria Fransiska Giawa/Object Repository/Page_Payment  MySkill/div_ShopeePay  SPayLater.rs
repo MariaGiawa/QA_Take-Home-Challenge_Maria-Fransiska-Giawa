@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ShopeePay  SPayLater</name>
+   <tag></tag>
+   <elementGuidId>283bac66-e11c-4b36-ad4a-2d1153b3e8c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul/div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.MuiListItemButton-root.MuiListItemButton-gutters.mui-style-1t75hbu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d286b6f5-ec11-4362-a0d6-04a0d27015bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters mui-style-1t75hbu</value>
+      <webElementGuid>0580aafa-3872-40f5-bfda-5733eb8bf2ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b79cb589-4e75-4f4d-8a84-7c61681dbc5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2aa4bbdc-f7c9-4215-bde2-58d71bea026b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ShopeePay / SPayLater</value>
+      <webElementGuid>8d57fad7-cc06-4d84-97bb-de60af03cf22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;notranlsate&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root mui-style-126xj0f&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper mui-style-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullWidth mui-style-2mum2w&quot;]/div[@class=&quot;MuiDialogContent-root mui-style-jkrf21&quot;]/div[@class=&quot;MuiStack-root mui-style-1ov46kg&quot;]/div[1]/ul[@class=&quot;MuiList-root mui-style-1uzmcsd&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters mui-style-1t75hbu&quot;]</value>
+      <webElementGuid>d7938106-9368-4f73-8165-e32e150798d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div[6]</value>
+      <webElementGuid>76bb8693-a1cf-4615-bab5-8c176bb56e97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ShopeePay / SPayLater' or . = 'ShopeePay / SPayLater')]</value>
+      <webElementGuid>c8e1bce6-153b-4230-a78e-70a4214eb641</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

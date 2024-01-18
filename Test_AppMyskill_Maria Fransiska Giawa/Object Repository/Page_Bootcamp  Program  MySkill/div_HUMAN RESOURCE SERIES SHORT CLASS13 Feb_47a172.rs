@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_HUMAN RESOURCE SERIES SHORT CLASS13 Feb_47a172</name>
+   <tag></tag>
+   <elementGuidId>86040201-2aa6-49a9-98f5-0937d224f495</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[3]/div/div[2]/div/div[15]/div/div/a/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2104a23b-8441-4259-8f4a-84fcffa15148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiCardContent-root mui-style-g71nvn</value>
+      <webElementGuid>b38271fb-d9d9-4e16-b3f1-f653c3de4ff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HUMAN RESOURCE SERIES: SHORT CLASS13 Februari 2024Gratis!</value>
+      <webElementGuid>5c426c6a-e050-43e0-941e-99cf90f84d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiStack-root mui-style-o44is&quot;]/div[@class=&quot;MuiBox-root mui-style-j1fy4m&quot;]/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[3]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg mui-style-rcalj5&quot;]/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 mui-style-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-md-3 mui-style-pq7chb&quot;]/div[1]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiCard-root mui-style-wem97i&quot;]/a[@class=&quot;MuiButtonBase-root MuiCardActionArea-root mui-style-1rdvs08&quot;]/div[@class=&quot;MuiCardContent-root mui-style-g71nvn&quot;]</value>
+      <webElementGuid>51698996-345b-4b28-b010-fe116521e130</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[3]/div/div[2]/div/div[15]/div/div/a/div[2]</value>
+      <webElementGuid>2284f8e8-4dda-4514-abfd-522d597c87e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div/a/div[2]</value>
+      <webElementGuid>4de02929-50bc-47ef-b1fc-dc83489384b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'HUMAN RESOURCE SERIES: SHORT CLASS13 Februari 2024Gratis!' or . = 'HUMAN RESOURCE SERIES: SHORT CLASS13 Februari 2024Gratis!')]</value>
+      <webElementGuid>e280ff52-3e62-4486-b140-e45e93eae5b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

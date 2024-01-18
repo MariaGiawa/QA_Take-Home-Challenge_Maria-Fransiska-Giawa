@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_UIUX DESIGN SERIES SHORT CLASS18 Januar_4e3efe</name>
+   <tag></tag>
+   <elementGuidId>fd6b95c3-4693-4e5b-8208-988f7d819ae8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[3]/div/div[2]/div/div[14]/div/div/a/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c37d65e9-9da5-463b-add3-8615e62f2600</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiCardContent-root mui-style-g71nvn</value>
+      <webElementGuid>0ca564ed-1c34-4ae5-9035-ff20501ca5d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UI/UX DESIGN SERIES: SHORT CLASS18 Januari 2024Gratis!</value>
+      <webElementGuid>c4ba18f5-54a9-41c5-9b8f-33e39390b4fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiStack-root mui-style-o44is&quot;]/div[@class=&quot;MuiBox-root mui-style-j1fy4m&quot;]/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[3]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg mui-style-rcalj5&quot;]/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 mui-style-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-md-3 mui-style-pq7chb&quot;]/div[1]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiCard-root mui-style-wem97i&quot;]/a[@class=&quot;MuiButtonBase-root MuiCardActionArea-root mui-style-1rdvs08&quot;]/div[@class=&quot;MuiCardContent-root mui-style-g71nvn&quot;]</value>
+      <webElementGuid>f5b6a8ee-07d7-4c7d-b58a-30396f401ea3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[3]/div/div[2]/div/div[14]/div/div/a/div[2]</value>
+      <webElementGuid>ed86d749-6db3-474e-847d-31cb4963116d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div/a/div[2]</value>
+      <webElementGuid>e385bdf9-b203-4ecb-9594-d31536a7155d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'UI/UX DESIGN SERIES: SHORT CLASS18 Januari 2024Gratis!' or . = 'UI/UX DESIGN SERIES: SHORT CLASS18 Januari 2024Gratis!')]</value>
+      <webElementGuid>c5e7a40c-acb4-4557-bfb2-b384f16a98a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

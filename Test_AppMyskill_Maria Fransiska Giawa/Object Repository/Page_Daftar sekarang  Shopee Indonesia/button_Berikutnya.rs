@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Berikutnya</name>
+   <tag></tag>
+   <elementGuidId>7658ad37-1a9a-4a50-beeb-de8e3b528884</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/div/div[2]/div[2]/form/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.wyhvVD._1EApiB.hq6WM5.L-VL8Q.KgaLSo.cepDQ1._7w24N1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>658ea89e-b023-479a-a7de-addcc3d92cf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wyhvVD _1EApiB hq6WM5 L-VL8Q KgaLSo cepDQ1 _7w24N1</value>
+      <webElementGuid>c58f98e1-37a6-4769-90da-eef93b9f3d46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berikutnya</value>
+      <webElementGuid>9d408de1-bc77-4550-9a4a-ec0da6b63ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;vtexOX&quot;]/div[1]/div[@class=&quot;_3M9lzn PeA8Gc&quot;]/div[@class=&quot;zfewkl&quot;]/div[@class=&quot;YJ0kaz J1i6cp B-fiUo&quot;]/div[@class=&quot;yXry6s&quot;]/form[1]/button[@class=&quot;wyhvVD _1EApiB hq6WM5 L-VL8Q KgaLSo cepDQ1 _7w24N1&quot;]</value>
+      <webElementGuid>437cfbe5-83f8-4f61-9308-5171027a5ba4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div/div[2]/div[2]/form/button</value>
+      <webElementGuid>f7e0ae5f-dcdd-46f6-a27d-27fddb4cbc26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>0e0bb9fe-4cce-45f6-b0e2-6efcbd06d245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Berikutnya' or . = 'Berikutnya')]</value>
+      <webElementGuid>ddcc716a-e2b9-4999-979e-8bb87b0a446f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

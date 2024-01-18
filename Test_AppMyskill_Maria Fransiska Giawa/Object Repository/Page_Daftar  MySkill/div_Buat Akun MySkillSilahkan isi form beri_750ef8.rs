@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Buat Akun MySkillSilahkan isi form beri_750ef8</name>
+   <tag></tag>
+   <elementGuidId>88f5b84d-640e-4b20-9527-95c1de7185db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiContainer-root.MuiContainer-maxWidthLg.mui-style-1qsxih2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c4a8efa1-e529-4ff8-9343-1f97576994ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiContainer-root MuiContainer-maxWidthLg mui-style-1qsxih2</value>
+      <webElementGuid>4c83c306-2976-4fd6-9d58-2dbd6cd23685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buat Akun MySkillSilahkan isi form berikut untuk melanjutkan.EmailEmailPasswordPasswordKonfirmasi PasswordKonfirmasi PasswordSaya bersedia menerima update informasi dari MySkillDaftarDaftar Menggunakan GoogleDaftar Menggunakan FacebookDengan membuat akun, saya setuju dengan Syarat dan Ketentuan, dan Ketentuan Privasi MySkill.</value>
+      <webElementGuid>04375a6f-ac79-4cdb-a9c8-f49d1add9033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[@class=&quot;mui-style-v82cpl&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg mui-style-1qsxih2&quot;]</value>
+      <webElementGuid>c76c177c-eee9-42c2-a600-ebb0e79a2ac0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]</value>
+      <webElementGuid>147e20dd-9178-47e7-9077-cf771f75d97e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>d7eacf53-2af5-4b3e-89e6-348815e6b318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Buat Akun MySkillSilahkan isi form berikut untuk melanjutkan.EmailEmailPasswordPasswordKonfirmasi PasswordKonfirmasi PasswordSaya bersedia menerima update informasi dari MySkillDaftarDaftar Menggunakan GoogleDaftar Menggunakan FacebookDengan membuat akun, saya setuju dengan Syarat dan Ketentuan, dan Ketentuan Privasi MySkill.' or . = 'Buat Akun MySkillSilahkan isi form berikut untuk melanjutkan.EmailEmailPasswordPasswordKonfirmasi PasswordKonfirmasi PasswordSaya bersedia menerima update informasi dari MySkillDaftarDaftar Menggunakan GoogleDaftar Menggunakan FacebookDengan membuat akun, saya setuju dengan Syarat dan Ketentuan, dan Ketentuan Privasi MySkill.')]</value>
+      <webElementGuid>756568a0-f875-4b97-95b1-298aadd3e528</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Konfirmasi password baru harus sama denga_455098</name>
+   <tag></tag>
+   <elementGuidId>699214b8-35c8-40cd-a6b7-604eeee45812</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id=':rv:-helper-text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>477f0899-388e-49ed-bc30-44e6e3a85d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained MuiFormHelperText-filled mui-style-egb5nh</value>
+      <webElementGuid>6f1e6d05-724f-4767-84b8-1db0ea29a8e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:rv:-helper-text</value>
+      <webElementGuid>5b23422a-45f1-4713-8977-e3cd3d5e0e8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Konfirmasi password baru harus sama dengan password</value>
+      <webElementGuid>04445d43-2bc2-4ace-905d-267e236ff5bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:rv:-helper-text&quot;)</value>
+      <webElementGuid>bef898e7-bf13-4cde-a212-625c1d8fe305</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':rv:-helper-text']</value>
+      <webElementGuid>04d79649-f7cb-4251-8e04-76d7c8692ded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[3]/div/p</value>
+      <webElementGuid>7d942e9c-4985-47ee-a4e8-39df01408095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':rv:-helper-text' and (text() = 'Konfirmasi password baru harus sama dengan password' or . = 'Konfirmasi password baru harus sama dengan password')]</value>
+      <webElementGuid>bcc53c48-16fc-4e87-8c68-701bb944b471</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
